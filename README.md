@@ -1,5 +1,6 @@
 # Paper Click-Discipline
 
+*A pun on "pay-per-click": it pays to be disciplined.*
 An **aim trainer** for your **sense of rhythm**, built as a browser game for PC. A metronome ticks, and your job is to click the target **on the beat**. Not faster, not slower. Accurate clicks at the wrong moment don't count, and neither do clicks in time that miss the target.
 
 Everything is in one HTML file: the art, the font and the sounds.
