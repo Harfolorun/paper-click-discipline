@@ -88,7 +88,7 @@ Redo it whenever you change headphones or speakers. Bluetooth headphones add a l
 
 ## Credits
 
-- **Idea, design and art:** human-made by Harfo L'Orun.
+- **Idea, design and art:** made by Harfo L'Orun.
 - **Metronome sounds (Classic, Clock, Sticks):** edited and processed by Harfo L'Orun, based on sounds by **freesound community** and **Dragon Studio** via [Pixabay](https://pixabay.com/), used under the [Pixabay Content License](https://pixabay.com/service/license-summary/).
 - **Code and the Digital metronome sound:** made by AI (Anthropic's Claude).
 - **Font:** [Nunito](https://github.com/googlefonts/nunito) by Vernon Adams and the Nunito Project Authors, under the SIL Open Font License 1.1.
