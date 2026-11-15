@@ -1,4 +1,3 @@
-
 # Paper Click-Discipline
 
 *A pun on "pay-per-click": it pays to be disciplined.*
@@ -8,7 +7,7 @@ An **aim trainer** for your **sense of rhythm**, built as a browser game for PC.
 Everything is in one HTML file: the art, the font and the sounds.
 
 <p align="center">
-<img height="370" alt="MainMenu" src="https://github.com/user-attachments/assets/c81a9ef4-5a84-4d5b-bdc3-a72ecd5faf03" />  <img height="370" alt="GameScreen" src="https://github.com/user-attachments/assets/d1cc0b90-6831-4212-bc28-f055d02fccf9" />
+<img height="370" alt="MainMenu" src="https://github.com/user-attachments/assets/d391c0a1-7e5f-484a-a7f9-67b2de1065f8" />  <img height="370" alt="GameScreen" src="https://github.com/user-attachments/assets/d1cc0b90-6831-4212-bc28-f055d02fccf9" />
 </p>
 
 ---
@@ -19,7 +18,7 @@ Everything is in one HTML file: the art, the font and the sounds.
 2. **Pick your options** on the left: metronome sound, volume, target size and click timing.
 3. **Start a game** in one of two ways:
    - **Play!** Type a BPM in the box and press Play!. The button counts down 4 beats (one bar of 4/4), then the game starts.
-   - **Tap!** Put on any song and click Tap! 10 times along with its beat. The game measures the tempo from your taps and starts right on the next beat, with the metronome locked to your music.
+   - **Tap!** Put on any song and click Tap! 16 times along with its beat. The game measures the tempo from your taps and starts right on the next beat, with the metronome locked to your music.
 
 A game lasts **60 seconds**. Each time you hit a target on the beat, a new one appears somewhere else on the paper. Press **Esc** to quit a game early.
 
