@@ -7,7 +7,7 @@ An **aim trainer** for your **sense of rhythm**, built as a browser game for PC.
 Everything is in one HTML file: the art, the font and the sounds.
 
 <p align="center">
-<img height="362" alt="MainMenu" src="https://github.com/user-attachments/assets/d391c0a1-7e5f-484a-a7f9-67b2de1065f8" /> <img height="362" alt="GameScreen" src="https://github.com/user-attachments/assets/d1cc0b90-6831-4212-bc28-f055d02fccf9" />
+<img height="362" alt="MainMenu" src="https://github.com/user-attachments/assets/d391c0a1-7e5f-484a-a7f9-67b2de1065f8" /><img height="362" alt="GameScreen" src="https://github.com/user-attachments/assets/d1cc0b90-6831-4212-bc28-f055d02fccf9" />
 </p>
 
 ---
